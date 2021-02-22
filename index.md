@@ -9,8 +9,8 @@ Production consists on 3 main phases
 
 
 # Pre-Production
-## Production
-### Post-Production
+# Production
+# Post-Production
 
 
 **GDC Conferences** 
